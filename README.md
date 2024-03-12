@@ -1,10 +1,26 @@
-### Olá, tudo bem? 👋
+<h1>Olá, tudo bem? 👋</h1>
+<h3>Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvimento Web full stack com direcionamento para a área de Análise de Dados.</h3>
 
-<div align="center">
-  <a href="https://github.com/ericksantosf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericksantosf&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantosf&layout=compact&langs_count=7&theme=light"/>
-</div>
-  <br>
-<div style="display: flex; align-itens: center;><br>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ericksantosf](https://www.linkedin.com/in/erick-eduardo-dos-santos-filho-3804431b6/))]([https://www.linkedin.com/in/ericksantosf/](https://www.linkedin.com/in/erick-eduardo-dos-santos-filho-3804431b6/)) 
+ [![Gmail Badge](https://img.shields.io/badge/-erickesf569@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickesf569@gmail.com)](mailto:erickesf569@gmail.com)
+
+  
+</br>  
+
 <div>
+  <a href="[https://github.com/ericksantosf](https://github.com/ericksantosf)">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Santos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Erick-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+
+### Algumas tecnologias que estou aprendendo e usando:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
