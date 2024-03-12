@@ -2,7 +2,7 @@
 <h3>Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvimento Web full stack com direcionamento para a área de Análise de Dados.</h3>
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ericksantosf](https://www.linkedin.com/in/erick-eduardo-dos-santos-filho-3804431b6/))]([https://www.linkedin.com/in/ericksantosf/](https://www.linkedin.com/in/erick-eduardo-dos-santos-filho-3804431b6/)) 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-santos-filho/)](https://www.linkedin.com/in/erick-santos-filho/) 
  [![Gmail Badge](https://img.shields.io/badge/-erickesf569@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickesf569@gmail.com)](mailto:erickesf569@gmail.com)
 
   
